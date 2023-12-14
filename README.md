@@ -14,12 +14,12 @@
             <a href="https://www.w3schools.com/css/"><img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" /></a>
             <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"><img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" /</a>
           <a href="https://www.typescriptlang.org/"><img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" /></a>
-            <a href=" https://pt-br.legacy.reactjs.org/"><img alt="React" src="https://img.shields.io/badge/React-blue?style=for-the-badge&logo=React"/></a>
+        <a href=" https://pt-br.legacy.reactjs.org/"><img alt="React" src="https://img.shields.io/badge/React-blue?style=for-the-badge&logo=React"/></a>
          <a href="https://github.com/"><img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" /></a>  
           <a href="https://code.visualstudio.com/"><img alt="Visua Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" /></a>
         </td>
     </tr>
-    
+       
 </table>  
 </p>
 

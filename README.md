@@ -39,7 +39,7 @@
 <p align="justify">
     <a href="https://www.linkedin.com/in/rafael-moraes-13ba5b258"><img alt="Linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
     <a href="mailto:rafael1327ff@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>  
-    <a href="https://github.com/Dev-Rafael"><img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" /></a>
+    <a href="https://github.com/Dev-Rafaael"><img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 </p>
 

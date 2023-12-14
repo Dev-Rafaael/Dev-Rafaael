@@ -2,7 +2,7 @@
 
 ## Sobre Mim
 
-- 🔭 No momento, estou em busca de oportunidades de trabalho.
+- 🔭 No momento, estou em busca de oportunidades de trabalho e do Primeiro Emprego.
 - 🔭 Sou apaixonado por tecnologia.
 - 🌱 Atualmente estou aprendendo React e TypeScript.
 

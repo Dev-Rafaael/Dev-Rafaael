@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&random=false&width=435&lines=Hello%2C+I'm+Rafael+Moraes;Front+End+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Ol%C3%A1%2C+sou+o+Rafael;Desenvolvedor+Front+End;Bem+Vindo+%3A))](https://git.io/typing-svg)
 
 ## Sobre Mim
 

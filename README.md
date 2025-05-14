@@ -38,7 +38,7 @@ Sou um Desenvolvedor **Full Stack** com foco em **Front-end**, apaixonado por te
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dev-Rafaael&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Dev-Rafaael&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Rafaael&layout=compact&theme=github_dark"/>
 </p>
 

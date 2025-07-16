@@ -2,7 +2,7 @@
 
 # 👨‍💻 Sobre Mim
 
-Sou um Desenvolvedor **Full Stack** com foco em **Front-end**, apaixonado por tecnologia, interfaces modernas e soluções eficientes. Tenho experiência com HTML, CSS, JavaScript, TypeScript, React e uma base sólida em desenvolvimento Backend. Busco constantemente evoluir minhas habilidades técnicas e interpessoais, participando de projetos que impactam positivamente usuários e empresas.
+Sou um Desenvolvedor **Front-end**, apaixonado por tecnologia, interfaces modernas e soluções eficientes. Tenho experiência com HTML, CSS, JavaScript, TypeScript, React e uma base sólida em desenvolvimento Backend. Busco constantemente evoluir minhas habilidades técnicas e interpessoais, participando de projetos que impactam positivamente usuários e empresas.
 
 - 👨‍💻 Tecnologias: HTML5, CSS3, JavaScript, TypeScript, React, SQL, Laravel, Git, GitHub.
 - ⚙️ Ferramentas: Visual Studio Code, Figma, Chrome DevTools.

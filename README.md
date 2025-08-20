@@ -4,10 +4,10 @@
 
 Sou um Desenvolvedor **Front-end**, apaixonado por tecnologia, interfaces modernas e soluções eficientes. Tenho experiência com HTML, CSS, JavaScript, TypeScript, React e uma base sólida em desenvolvimento Backend. Busco constantemente evoluir minhas habilidades técnicas e interpessoais, participando de projetos que impactam positivamente usuários e empresas.
 
-- 👨‍💻 Tecnologias: HTML5, CSS3, JavaScript, TypeScript, React, SQL, Laravel, Git, GitHub.
+- 👨‍💻 Tecnologias: HTML5, CSS3, JavaScript, TypeScript, React,Node, Git, GitHub.
 - ⚙️ Ferramentas: Visual Studio Code, Figma, Chrome DevTools.
 - 🌐 Interesse por: UI/UX, APIs RESTful, Componentização e Performance.
-- 🚀 Atualmente me aprofundando em **Node** e **SQL** no desenvolvimento de aplicações modernas.
+- 🚀 Atualmente me aprofundando em  **SQL** no desenvolvimento de aplicações modernas.
 
 ---
 
@@ -19,7 +19,6 @@ Sou um Desenvolvedor **Front-end**, apaixonado por tecnologia, interfaces modern
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"><img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" /></a>
   <a href="https://www.typescriptlang.org/"><img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" /></a>
   <a href="https://pt-br.legacy.reactjs.org/"><img alt="React" src="https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white" /></a>
-  <a href="https://www.php.net/"><img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" /></a>
   <a href="https://www.mysql.com/"><img alt="SQL" src="https://img.shields.io/badge/SQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" /></a>
   <a href="https://github.com/"><img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://code.visualstudio.com/"><img alt="VS Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" /></a>

@@ -41,27 +41,18 @@ Possuo uma base sólida em JavaScript e experiência no desenvolvimento Back-end
   <a href="https://www.prisma.io/">
     <img alt="Prisma" src="https://img.shields.io/badge/prisma-%232D3748.svg?style=for-the-badge&logo=prisma&logoColor=white" />
   </a>
-  <a href="https://zod.dev/">
-    <img alt="Zod" src="https://img.shields.io/badge/zod-%233068B7.svg?style=for-the-badge&logo=zod&logoColor=white" />
+  <a href="https://zod.dev/"><img alt="Zod" src="https://img.shields.io/badge/zod-%233068B7.svg?style=for-the-badge&logo=zod&logoColor=white" />
   </a>
-  <a href="https://zustand-demo.pmnd.rs/">
-    <img alt="Zustand" src="https://img.shields.io/badge/zustand-%234B5563.svg?style=for-the-badge&logo=react&logoColor=white" />
+  <a href="https://zustand-demo.pmnd.rs/"><img alt="Zustand" src="https://img.shields.io/badge/zustand-%234B5563.svg?style=for-the-badge&logo=react&logoColor=white" />
   </a>
-  <a href="https://www.postgresql.org/">
-    <img alt="PostgreSQL" src="https://img.shields.io/badge/postgresql-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <a href="https://www.postgresql.org/"><img alt="PostgreSQL" src="https://img.shields.io/badge/postgresql-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
   </a>
-  <a href="https://www.docker.com/">
-    <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
+  <a href="https://www.docker.com/"><img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
   </a>
-  <a href="https://docs.github.com/actions">
-    <img alt="GitHub Actions" src="https://img.shields.io/badge/CI/CD-%232088FF.svg?style=for-the-badge&logo=github-actions&logoColor=white" />
+  <a href="https://docs.github.com/actions"><img alt="GitHub Actions" src="https://img.shields.io/badge/CI/CD-%232088FF.svg?style=for-the-badge&logo=github-actions&logoColor=white" />
   </a>
-  <a href="https://github.com/">
-    <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://code.visualstudio.com/">
-    <img alt="VS Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  </a>
+  <a href="https://github.com/"><img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://code.visualstudio.com/"><img alt="VS Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" /></a>
 </p>
 
 

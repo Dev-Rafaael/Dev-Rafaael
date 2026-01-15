@@ -1,16 +1,21 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Ol%C3%A1%2C+sou+o+Rafael;Desenvolvedor+Front+End)](https://git.io/typing-svg)
 
 # 👨‍💻 Sobre Mim
+Sou Desenvolvedor **Full Stack Júnior**, com foco em **Front-end**, apaixonado por tecnologia, interfaces modernas e soluções eficientes. Atuo principalmente com React.js e TypeScript, desenvolvendo aplicações web modernas, performáticas e bem estruturadas, sempre com atenção à experiência do usuário.
 
-Sou um Desenvolvedor **Full Stack** com foco em **Front-end**, apaixonado por tecnologia, interfaces modernas e soluções eficientes. Atuo principalmente com React e TypeScript, desenvolvendo aplicações web modernas, performáticas e bem estruturadas, sempre com atenção à experiência do usuário.
+Possuo base sólida em JavaScript e experiência em Back-end com Node.js, criando APIs REST e integrando Front-end e Back-end de forma eficiente. Tenho experiência com testes automatizados, boas práticas de código, CI/CD e Docker, utilizando containerização para organização de ambientes de desenvolvimento. Busco evolução constante, participando de projetos que geram valor real para usuários e empresas.
 
-Possuo uma base sólida em JavaScript e experiência no desenvolvimento Back-end com Node.js, criando APIs RESTful e integrando Front-end e Back-end de forma eficiente. Busco evolução constante, tanto técnica quanto interpessoal, participando de projetos que geram valor real para usuários e empresas.
+👨‍💻 Tecnologias
+HTML5, CSS3, JavaScript, TypeScript, React.js, Node.js, Express, Prisma, Zod, Zustand, Vitest, Docker, CI/CD, Git, GitHub
 
-- 👨‍💻 Tecnologias: HTML5, CSS3, JavaScript, TypeScript, React,Node,Prisma,Express,Zod,Zustand,CI/CD, Git, GitHub.
-- ⚙️ Ferramentas: Visual Studio Code, Chrome DevTools.
-- 🌐 Interesse por: UI/UX, APIs RESTful, Componentização e Performance.
-- 🚀 Aprofundando conhecimentos em **Docker**, **SQL** e **bancos de dados relacionais**, aplicados ao desenvolvimento de aplicações web modernas.
+⚙️ Ferramentas
+Visual Studio Code, Chrome DevTools
 
+🌐 Interesses
+UI/UX, APIs REST, Componentização, Performance e boas práticas de desenvolvimento
+
+🚀 Em evolução contínua
+Aprofundando conhecimentos em Docker, SQL, bancos de dados relacionais, cloud e arquitetura de aplicações web modernas.
 ---
 
 ## 🛠️ Tecnologias e Ferramentas

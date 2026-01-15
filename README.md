@@ -5,12 +5,9 @@ Sou Desenvolvedor **Full Stack Júnior**, com foco em **Front-end**, apaixonado 
 
 Possuo base sólida em JavaScript e experiência em Back-end com Node.js, criando APIs REST e integrando Front-end e Back-end de forma eficiente. Tenho experiência com testes automatizados, boas práticas de código, CI/CD e Docker, utilizando containerização para organização de ambientes de desenvolvimento. Busco evolução constante, participando de projetos que geram valor real para usuários e empresas.
 
-👨‍💻 Tecnologias: HTML5, CSS3, JavaScript, TypeScript, React.js, Node.js, Express, Prisma, Zod, Zustand, Vitest, Docker, CI/CD, Git, GitHub
-
+👨‍💻 Tecnologias: HTML5, CSS3, JavaScript, TypeScript, React.js, Node.js, Express, Prisma, Zod, Zustand, Vitest, Docker, CI/CD, Git, GitHub 
 ⚙️ Ferramentas: Visual Studio Code, Chrome DevTools
-
 🌐 Interesses: UI/UX, APIs REST, Componentização, Performance e boas práticas de desenvolvimento
-
 🚀 Em evolução contínua: Aprofundando conhecimentos em Docker, SQL, bancos de dados relacionais, cloud e arquitetura de aplicações web modernas.
 
 

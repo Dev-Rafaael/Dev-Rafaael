@@ -23,7 +23,6 @@ Tenho experiência com testes automatizados, boas práticas de código, CI/CD e 
   <a href="https://www.w3schools.com/css/"><img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" /></a>
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"><img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" /></a>
   <a href="https://www.typescriptlang.org/"><img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" /></a>
-
 <a href="https://react.dev/"><img alt="React" src="https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white" /></a>
     <a href="https://nextjs.org/"><img alt="Next.js" src="https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white" /></a>
     <a href="https://nodejs.org/"><img alt="Node.js" src="https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white" /></a>
